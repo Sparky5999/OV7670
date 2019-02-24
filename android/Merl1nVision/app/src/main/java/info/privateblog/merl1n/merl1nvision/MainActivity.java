@@ -29,7 +29,7 @@ import java.util.Map;
  * http://privateblog.info
  */
 public class MainActivity extends AppCompatActivity implements Logger {
-    private final static String MY_NAME = "Merl1nVision";
+    private final static String MY_NAME = "HC-05";
 
     private ImageHandler imageHandler = new ImageHandler();
     private SurfaceDrawer surfaceDrawer = new SurfaceDrawer(imageHandler);
